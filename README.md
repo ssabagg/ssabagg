@@ -16,6 +16,9 @@ In pursuit of optimizing our data workflow, I’ve developed a personalized Pyth
 
 ### 📊 Python Projects:
 Here are some highlights from my GitHub repositories, showcasing my application of Python in data science and machine learning:
+
+- **Personalized API Library (`sabagclass.py`)**: Created a suite of Python classes encapsulated in `sabagclass.py`, serving as a custom internal tool for streamlining database operations, ETL processes, and reporting automation—tailored to enhance productivity for our data team.
+  
 - **Data ETL Workflows ([PythonToSQL/](https://github.com/ssabagg/my_portfolio), `SAPtoSQL/`)**: Extracting data from SAP, Transforming and integrating from various sources into SQL databases for comprehensive analysis.
 
 - **Machine Learning Demand Forecasting System**: Developed a robust forecasting model using Python’s Scikit-Learn to predict the accuracy of future demand.
