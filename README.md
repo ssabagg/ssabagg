@@ -6,11 +6,10 @@ My journey as a Python Data Science Developer involves extensive use of data man
 
 ### 📊 Python Projects:
 Here are some highlights from my GitHub repositories, showcasing my application of Python in data science and machine learning:
-- **Demand Forecasting System (`streamlit/`)**: A Python-based forecasting model utilizing Scikit-Learn for improved inventory management.
-- **Customer Segmentation Analysis (`Machine_learning/`)**: Leveraging k-means clustering to strategically segment customers and boost marketing efforts.
-- **Data ETL Workflows (`PythonToSQL/`, `SAPtoSQL/`)**: Transforming and integrating data from various sources into SQL databases for comprehensive analysis.
-- **Automated Reporting (`Python reports/`)**: Developing automated reporting scripts to streamline the generation of business intelligence reports.
-- **Web Data Extraction (`Selenium/`)**: Using Selenium to automate data extraction processes, enhancing data accuracy and timeliness.
+- **Data ETL Workflows (`PythonToSQL/`, `SAPtoSQL/`)**: Extracting data from SAP, Transforming and integrating from various sources into SQL databases for comprehensive analysis.
+- **Web Applications (`streamlit/`)**: Using Streamlit Libraries to create a interactive web application fully built with Python.
+- **Automated Reporting (`Python reports/`)**: Developing automated email reporting scripts to streamline the generation of business intelligence reports.
+- **Web Data Extraction (`Selenium/`)**: Using Selenium to automate data extraction processes..
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omarsabag) 
