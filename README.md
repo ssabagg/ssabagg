@@ -1,8 +1,8 @@
 # 💫 About Me:
-Hello! I'm Omar, a Business Intelligence Manager at TE Connectivity. I'm passionate about leveraging data to drive business insights and solutions. With a Master of Data Science from Universidad del Valle de México, I specialize in Python, SQL, Tableau, and Machine Learning. I excel in transforming complex datasets into actionable business intelligence and am particularly skilled in using Python for data analysis and machine learning.<br>
+Hello! I'm Omar, a Business Intelligence Manager at TE Connectivity. With a Master of Data Science from Universidad del Valle de México, my expertise lies in Python, SQL, Tableau, and Machine Learning. I'm passionate about transforming complex data into actionable insights and use my technical skills to influence data-driven decisions.<br>
 
 ## 🐍 Python and Data Science:
-As a dedicated Python Data Science Developer, I've honed my skills in data manipulation, analysis, and visualization to turn data into compelling stories. I have extensive experience with libraries such as Pandas, NumPy, Matplotlib, and Scikit-Learn and have utilized them in projects to deliver insights and predictive models that drive decision-making. I’m also proficient in machine learning algorithms and have a strong understanding of data structures and algorithms critical for high-performance data processing.
+My journey as a Python Data Science Developer involves extensive use of data manipulation, analysis, and visualization libraries such as Pandas, NumPy, Matplotlib, and Scikit-Learn. I excel in creating predictive models and insightful analytics that inform strategic decision-making and have a strong foundation in machine learning algorithms and data structures.
 
 ### 📊 Python Projects:
 - **Demand Forecasting System**: Developed a robust forecasting model using Python’s Scikit-Learn to predict future demand, improving inventory management and reducing costs.
