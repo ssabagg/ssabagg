@@ -10,7 +10,7 @@ My journey as a Python Data Science Developer involves extensive use of data man
 Here are some highlights from my GitHub repositories, showcasing my application of Python in data science and machine learning:
 - **Data ETL Workflows ([PythonToSQL/](https://github.com/ssabagg/my_portfolio), `SAPtoSQL/`)**: Extracting data from SAP, Transforming and integrating from various sources into SQL databases for comprehensive analysis.
 
-- **Demand Forecasting System**: Developed a robust forecasting model using Python’s Scikit-Learn to predict the accuracy of future demand.
+- **Machine LEarning Demand Forecasting System**: Developed a robust forecasting model using Python’s Scikit-Learn to predict the accuracy of future demand.
 
 - **Web Applications (`streamlit/`)**: Using Streamlit Library to create interactives web applications fully built with Python.
   
