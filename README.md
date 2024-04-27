@@ -12,7 +12,7 @@ Here are some highlights from my GitHub repositories, showcasing my application 
   
 - **Web Applications (`streamlit/`)**: Using Streamlit Library to create interactives web applications fully built with Python.
   
-- **Automated Reporting (`Python reports/`)**: Developing automated email reporting scripts to streamline the generation of business intelligence reports.
+- **Automated Reporting (`Python reports/`)**: Developing automated email reporting scripts to share updated data information with insights using Plotly charts embded into the body
   
 - **Web Data Extraction (`Selenium/`)**: Using Selenium to automate data extraction processes..
   
