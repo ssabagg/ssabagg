@@ -6,7 +6,7 @@ My journey as a Python Data Science Developer involves extensive use of data man
 
 ### 📊 Python Projects:
 Here are some highlights from my GitHub repositories, showcasing my application of Python in data science and machine learning:
-- **Data ETL Workflows (`[PythonToSQL/](https://github.com/ssabagg/my_portfolio)`, `SAPtoSQL/`)**: Extracting data from SAP, Transforming and integrating from various sources into SQL databases for comprehensive analysis.
+- **Data ETL Workflows ([PythonToSQL/](https://github.com/ssabagg/my_portfolio), `SAPtoSQL/`)**: Extracting data from SAP, Transforming and integrating from various sources into SQL databases for comprehensive analysis.
 - **Web Applications (`streamlit/`)**: Using Streamlit Libraries to create a interactive web application fully built with Python.
 - **Automated Reporting (`Python reports/`)**: Developing automated email reporting scripts to streamline the generation of business intelligence reports.
 - **Web Data Extraction (`Selenium/`)**: Using Selenium to automate data extraction processes..
