@@ -13,7 +13,7 @@ My journey as a Python Data Science Developer involves extensive use of data man
 
 ### 📊 Python Projects:
 Here are some highlights from my GitHub repositories, showcasing my application of Python in data science and machine learning:
-
+[![GitHub](https://image.flaticon.com/icons/png/512/25/25231.png)](https://github.com/ssabagg/my_portfolio)
 - **Personalized API Library (`sabagclass.py`)**: Created a suite of Python classes encapsulated in `sabagclass.py`, serving as a custom internal tool for streamlining database operations, ETL processes, and reporting automation—tailored to enhance productivity for our data team.
   
 - **Data ETL Workflows ([PythonToSQL/](https://github.com/ssabagg/my_portfolio), `SAPtoSQL/`)**: Extracting data from SAP, Transforming and integrating from various sources into SQL databases for comprehensive analysis.
