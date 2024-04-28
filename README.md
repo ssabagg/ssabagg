@@ -5,10 +5,6 @@ Hello! I'm Omar, a Business Intelligence Manager at TE Connectivity. With a Mast
 ## 🐍 Python and Data Science: 
 My journey as a Python Data Science Developer involves extensive use of data manipulation, analysis, and visualization libraries such as Pandas, NumPy, Matplotlib, and Scikit-Learn. I excel in creating predictive models and insightful analytics that inform strategic decision-making and have a strong foundation in machine learning algorithms and data structures.
 
-<p align="center">
-  <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="80" height="80" />
-</p>
-
 
 ### 📊 Python Projects:
 Here are some highlights from my GitHub repositories, showcasing my application of Python in data science and machine learning:
