@@ -3,7 +3,7 @@ Hello! I'm Omar, a Business Intelligence Manager at TE Connectivity. With a Mast
 
 
 <p align="center">
-  <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" height="30" />
+  <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" height="60" />
 </p>
 
 ## 🐍 Python and Data Science: 
