@@ -15,17 +15,17 @@ Here are some highlights from my GitHub repositories, showcasing my application 
 
 Go to my repository portfolio. [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssabagg/my_portfolio)
 
-- **Personalized API Library (`sabagclass.py`)**: Created a suite of Python classes encapsulated in `sabagclass.py`, serving as a custom internal tool for streamlining database operations, ETL processes, and reporting automation—tailored to enhance productivity for our data team.
+- **Personalized API Library ([Personalized_library/](https://github.com/ssabagg/my_portfolio/tree/main/Personalized_library))**: Created a suite of Python classes encapsulated in `sabagclass.py`, serving as a custom internal tool for streamlining database operations, ETL processes, and reporting automation—tailored to enhance productivity for our data team.
   
 - **Data ETL Workflows ([ETL_SAP/](https://github.com/ssabagg/my_portfolio/tree/main/ETL_SAP))**: Extracting data from SAP, Transforming and integrating from various sources into SQL databases for comprehensive analysis.
 
-- **Machine Learning Demand Forecasting System**: Developed a robust forecasting model using Python’s Scikit-Learn to predict the accuracy of future demand.
+- **Machine Learning Demand Forecasting System ([Personalized_library/](https://github.com/ssabagg/my_portfolio/tree/main/Personalized_library))**: Developed a robust forecasting model using Python’s Scikit-Learn to predict the accuracy of future demand.
 
-- **Web Applications (`streamlit/`)**: Using Streamlit Library to create interactives web applications fully built with Python.
+- **Streamlit Web Applications ([Personalized_library/](https://github.com/ssabagg/my_portfolio/tree/main/Personalized_library))**: Using Streamlit Library to create interactives web applications fully built with Python.
   
-- **Automated Reporting (`Python reports/`)**: Developing automated email reporting scripts to share updated data information with insights using Plotly charts embded into the body
+- **Automated Reporting ([Personalized_library/](https://github.com/ssabagg/my_portfolio/tree/main/Personalized_library))**: Developing automated email reporting scripts to share updated data information with insights using Plotly charts embded into the body
   
-- **Web Data Extraction (`Selenium/`)**: Using Selenium to automate data extraction processes..
+- **Web Data Extraction ([Personalized_library/](https://github.com/ssabagg/my_portfolio/tree/main/Personalized_library))**: Using Selenium to automate data extraction processes..
   
 
 ## 🌐 Socials:
