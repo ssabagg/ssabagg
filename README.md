@@ -1,9 +1,11 @@
 # 💫 About Me:
 Hello! I'm Omar, a Business Intelligence Manager at TE Connectivity. With a Master of Data Science, my expertise lies in Python, SQL, Tableau, Machine Learning, ETL, Webscrapping and Streamlit webapps. I'm passionate about transforming complex data into actionable insights and use my technical skills to influence data-driven decisions.<br>
 
+
 <p align="center">
   <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" height="30" />
 </p>
+
 ## 🐍 Python and Data Science: 
 My journey as a Python Data Science Developer involves extensive use of data manipulation, analysis, and visualization libraries such as Pandas, NumPy, Matplotlib, and Scikit-Learn. I excel in creating predictive models and insightful analytics that inform strategic decision-making and have a strong foundation in machine learning algorithms and data structures.
 
