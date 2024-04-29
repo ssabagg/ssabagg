@@ -1,4 +1,4 @@
-![image](https://github.com/ssabagg/ssabagg/assets/112738484/2a8a6592-e499-4536-9e26-b5c5b4a58f6a)# 💫 About Me:
+# 💫 About Me:
 Hello! I'm Omar, a Business Intelligence Manager at TE Connectivity. With a Master of Data Science, my expertise lies in Python, SQL, Tableau, Machine Learning, ETL, Webscrapping and Streamlit webapps. I'm passionate about transforming complex data into actionable insights and use my technical skills to influence data-driven decisions.<br>
 
 
