@@ -1,4 +1,4 @@
-# 💫 About Me:
+![image](https://github.com/ssabagg/ssabagg/assets/112738484/2a8a6592-e499-4536-9e26-b5c5b4a58f6a)# 💫 About Me:
 Hello! I'm Omar, a Business Intelligence Manager at TE Connectivity. With a Master of Data Science, my expertise lies in Python, SQL, Tableau, Machine Learning, ETL, Webscrapping and Streamlit webapps. I'm passionate about transforming complex data into actionable insights and use my technical skills to influence data-driven decisions.<br>
 
 
@@ -15,13 +15,13 @@ Go to the main page of my repo. [![GitHub](https://img.shields.io/badge/github-%
   
 - **Data ETL Workflows ([ETL_SAP/](https://github.com/ssabagg/my_portfolio/tree/main/ETL_SAP))**: Extracting data from SAP, Transforming and integrating from various sources into SQL databases for comprehensive analysis.
 
-- :construction: **Machine Learning Demand Forecasting System ([Machine_learning/](https://github.com/ssabagg/my_portfolio/tree/main/Machine_learning))**: Developed a robust forecasting model using Python’s Scikit-Learn to predict the accuracy of future demand. (WORK IN PROGRESS)
+- :construction: **Machine Learning Demand Forecasting System ([Machine_learning/](https://github.com/ssabagg/my_portfolio/tree/main/Machine_learning))  (WORK IN PROGRESS)**: Developed a robust forecasting model using Python’s Scikit-Learn to predict the accuracy of future demand.
 
-- :construction: **Streamlit Web Applications ([Streamlit_webapps/](https://github.com/ssabagg/my_portfolio/tree/main/Streamlit_webapps))**: Using Streamlit Library to create interactives web applications fully built with Python. (WORK IN PROGRESS)
+- :construction: **Streamlit Web Applications ([Streamlit_webapps/](https://github.com/ssabagg/my_portfolio/tree/main/Streamlit_webapps))  (WORK IN PROGRESS)**: Using Streamlit Library to create interactives web applications fully built with Python.
   
-- :construction: **Automated Reporting ([automated_reporting/](https://github.com/ssabagg/my_portfolio/tree/main/automated_reporting))**: Developing automated email reporting scripts to share updated data information with insights using Plotly charts embded into the body. (WORK IN PROGRESS)
+- :construction: **Automated Reporting ([automated_reporting/](https://github.com/ssabagg/my_portfolio/tree/main/automated_reporting))  (WORK IN PROGRESS)**: Developing automated email reporting scripts to share updated data information with insights using Plotly charts embded into the body.
   
-- :construction: **Web Data Extraction ([wed_scrapping/](https://github.com/ssabagg/my_portfolio/tree/main/wed_scrapping))**: Using Selenium to automate data extraction processes. (WORK IN PROGRESS)
+- :construction: **Web Data Extraction ([wed_scrapping/](https://github.com/ssabagg/my_portfolio/tree/main/wed_scrapping))  (WORK IN PROGRESS)**: Using Selenium to automate data extraction processes.
   
 
 ## 🌐 Socials:
