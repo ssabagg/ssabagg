@@ -15,13 +15,13 @@ Go to the main page of my repo. [![GitHub](https://img.shields.io/badge/github-%
   
 - **Data ETL Workflows ([ETL_SAP/](https://github.com/ssabagg/my_portfolio/tree/main/ETL_SAP))**: Extracting data from SAP, Transforming and integrating from various sources into SQL databases for comprehensive analysis.
 
-- **Machine Learning Demand Forecasting System ([Machine_learning/](https://github.com/ssabagg/my_portfolio/tree/main/Machine_learning))**: Developed a robust forecasting model using Python’s Scikit-Learn to predict the accuracy of future demand.
+- :construction: **Machine Learning Demand Forecasting System ([Machine_learning/](https://github.com/ssabagg/my_portfolio/tree/main/Machine_learning))**: Developed a robust forecasting model using Python’s Scikit-Learn to predict the accuracy of future demand.
 
-- **Streamlit Web Applications ([Streamlit_webapps/](https://github.com/ssabagg/my_portfolio/tree/main/Streamlit_webapps))**: Using Streamlit Library to create interactives web applications fully built with Python.
+-  :construction: **Streamlit Web Applications ([Streamlit_webapps/](https://github.com/ssabagg/my_portfolio/tree/main/Streamlit_webapps))**: Using Streamlit Library to create interactives web applications fully built with Python.
   
-- **Automated Reporting ([automated_reporting/](https://github.com/ssabagg/my_portfolio/tree/main/automated_reporting))**: Developing automated email reporting scripts to share updated data information with insights using Plotly charts embded into the body
+-  :construction: **Automated Reporting ([automated_reporting/](https://github.com/ssabagg/my_portfolio/tree/main/automated_reporting))**: Developing automated email reporting scripts to share updated data information with insights using Plotly charts embded into the body
   
-- **Web Data Extraction ([wed_scrapping/](https://github.com/ssabagg/my_portfolio/tree/main/wed_scrapping))**: Using Selenium to automate data extraction processes..
+-  :construction: **Web Data Extraction ([wed_scrapping/](https://github.com/ssabagg/my_portfolio/tree/main/wed_scrapping))**: Using Selenium to automate data extraction processes..
   
 
 ## 🌐 Socials:
